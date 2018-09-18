@@ -1,0 +1,11 @@
+# basic options
+title: Duncan McAlynn
+author: DMc
+email: infosecwar@protonmail.com
+description: Cybersecurity Professional
+twitter_username: infosecwar
+github_username:  mcalynn
+
+# Build settings
+markdown: kramdown
+theme: minima
